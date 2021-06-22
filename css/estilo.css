@@ -1,0 +1,146 @@
+body {
+    
+font-family: 'Roboto', sans-serif;
+}
+
+.rosa{
+    background-color: #ef9a9a;    
+}
+
+.verdeoscuro{
+    background-color: #92cc00;
+}
+
+.fondo{
+    background-color: whitesmoke;
+}
+
+.derecha{
+    margin-right: 0 !important; 
+}
+
+.margen{
+    position: relative; 
+    margin-bottom: 40px !important;
+}
+
+.carusel{
+    position: relative;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;    
+}
+
+.buscador{
+      position: relative;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.margen-arriba-abajo{
+    position: relative;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+.margen-costados{
+    position: relative;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+
+#titulo{
+     background: #92cc00 ;
+}
+
+.cartas{
+      
+    margin-bottom: 20px !important;
+}
+
+.mundito{
+    position: relative;
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+
+.final{
+    height: 50px !important;
+}
+
+.verde{
+    background-color: #c6ff00;
+    
+}
+
+.rosa{
+    background-color: #ef9a9a;
+    
+}
+
+.rosaoscuro{
+    background-color: #ba6b6c;    
+}
+
+.verdeoscuro{
+    background-color: #92cc00;
+}
+
+.fondo{
+    background-color: whitesmoke;
+}
+
+.margen{
+    position: relative; 
+    margin-bottom: 40px !important;
+}
+
+.carusel{
+    position: relative;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;    
+}
+
+.buscador{
+      position: relative;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.margen-arriba-abajo{
+    position: relative;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+.margen-costados{
+    position: relative;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+
+#titulo{
+     background: #92cc00 ;
+}
+
+.cartas{      
+    margin-bottom: 20px !important;
+}
+
+.mundito{
+    position: relative;
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+
+.final{
+    height: 50px !important;
+}
+
+
+
+
+
